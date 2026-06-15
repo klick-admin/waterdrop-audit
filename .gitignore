@@ -1,0 +1,6 @@
+# Only the self-contained site (index.html) belongs in this repo.
+# Everything else in the working folder is internal and must stay out.
+*
+!index.html
+!README.md
+!.gitignore
